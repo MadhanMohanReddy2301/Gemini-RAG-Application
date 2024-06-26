@@ -1,4 +1,4 @@
-# Chat PDF with Gemini 💁
+# Chat with PDF Using Gemini 💁
 
 This Streamlit application allows users to interact with PDF documents using conversational AI powered by Gemini and Google's generative AI.
 
